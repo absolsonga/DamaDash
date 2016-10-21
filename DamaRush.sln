@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{73AA807D-EFFA-8FC0-4360-06407690A447}") = "DamaRush", "Assembly-CSharp-firstpass.csproj", "{2860701B-527E-1332-E99C-23824F9AF3F0}"
 EndProject
+Project("{73AA807D-EFFA-8FC0-4360-06407690A447}") = "DamaRush", "Assembly-CSharp.csproj", "{84D053A7-AEBF-6634-19C5-F3F1118EF6B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{2860701B-527E-1332-E99C-23824F9AF3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2860701B-527E-1332-E99C-23824F9AF3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2860701B-527E-1332-E99C-23824F9AF3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D053A7-AEBF-6634-19C5-F3F1118EF6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D053A7-AEBF-6634-19C5-F3F1118EF6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D053A7-AEBF-6634-19C5-F3F1118EF6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D053A7-AEBF-6634-19C5-F3F1118EF6B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
